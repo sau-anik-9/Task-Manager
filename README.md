@@ -1,6 +1,6 @@
-# MERN Task Manager
+# Task Manager
 
-A MERN application for basic tasks management.
+A MERN application for basic task management.
 
 
 ## Tools and Technologies
@@ -13,7 +13,7 @@ A MERN application for basic tasks management.
 - Express.js
 - React
 - Redux
-- Mongodb
+- MongoDB
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ A MERN application for basic tasks management.
    npm run install-all
    ```
 
-2. Create a file named ".env" inside the backend folder. Add data from .env.example file and substitute your credentials there.
+2. Create a file named ".env" inside the backend folder. Add data from the .env.example file and substitute your credentials there.
 
 3. Start the application
 
